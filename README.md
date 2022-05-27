@@ -20,6 +20,20 @@
 
 I have also worked with C++, Java and Asp.net but now I can't recognise them a bit. I am also a Arctic Code Vault Contributor as I have worked with Codeenvy before 2015 and contributed to first design of [Codeenvy Repository](https://github.com/codenvy/codenvy)
 
+✨ _Things I was part of as a contributor_ ✨
+ - First Year Project      -> A car racing game was build using EZwindows of C++ (We even thought that the game can be expanded to NFS level)
+ - First Internship        -> Modified and Maintained a hardware product based website. First Money.
+ - First Full Website(free)-> Zephyr( the Aerospace department festival) and Aawaaz (The Hindi Newspaper Group for which website requirement is always two lang)
+ - First Full Website(paid)-> Broadvision.asia (The website was for internship and were according tp full corporate environment)
+ - First Data Analysis     -> It was a inter IIT competition and the task was to give a best combination of features for a product (out of 2^12 scenarios) that would capture the largest market. and guess which team won the first prize.
+ - First Optimization      -> Dual degree project on particle swarm optimization. Which uses evolution algorithm to find optimum parameters from thousands of scenarios to give best output
+ - First Corporate Job     -> As a Software Engineer, and in 15 months the experience I got was for C/C++, Java, Networking tools, packet analysis, informix, sybase, sybase IQ, Postgresql, mongodb, node.js, Angular.js, twitter bootstrap, socket.io for live dashbaord and much more.
+ - First Freelancing       -> Codeenvy, the project was UI based live and highly interactive dashbaord and we worked mostly with angular.js and Twitter Bootstrap
+ - First Python Project    -> It was also freelance project to collect and gather the information of various startups and recommend which startup is worth investing
+
+Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3, 
+     
+
 <h3>Things I code with</h3>
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
