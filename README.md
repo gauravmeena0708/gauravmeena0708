@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2>Intro</h2>
-<p>I am Gaurav Meena, APFC, EPFO currently living in <b>Bengaluru, India</b>. </p>
+<p>I am Gaurav Meena, APFC, EPFO currently living in <b>Bengaluru, India</b>. By Hobby, I am a Learner and Full stack developer. </p>
 
 [Youtube](https://www.youtube.com/playlist?list=PLYc0L7KnQ0W2iRLYBktNK_94BBRZcTaDF)
 
@@ -78,6 +78,7 @@ Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3,
 	<a href="https://twitter.com/gauravmeena0708" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 	<a href="https://www.linkedin.com/in/gauravmeena0708" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 	<a href="https://www.instagram.com/gauravmeena0708/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+	<a href="https://stackoverflow.com/users/1070548/gaurav"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
 </p>
 
 <h2>Latest Tweets</h2>
