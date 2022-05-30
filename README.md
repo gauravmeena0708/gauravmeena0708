@@ -36,12 +36,29 @@ Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3,
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+  <img alt="Twitter Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
+  <img alt="Postgresql" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis" />
+  
+
+  <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
+  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" />
+  
+  
+  <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+  
+  
 </p>
 
 [![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravmeena0708)](https://github.com/gauravmeena0708/)
