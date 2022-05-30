@@ -27,9 +27,9 @@ I have also worked with C++, Java and Asp.net but now I can't recognise them a b
  - First Full Website(paid)-> Broadvision.asia (The website was for internship and were according tp full corporate environment)
  - First Data Analysis     -> It was a inter IIT competition and the task was to give a best combination of features for a product (out of 2^12 scenarios) that would capture the largest market. and guess which team won the first prize.
  - First Optimization      -> Dual degree project on particle swarm optimization. Which uses evolution algorithm to find optimum parameters from thousands of scenarios to give best output
- - First Corporate Job     -> As a Software Engineer, and in 15 months the experience I got was for C/C++, Java, Networking tools, packet analysis, informix, sybase, sybase IQ, Postgresql, mongodb, node.js, Angular.js, twitter bootstrap, socket.io for live dashbaord and much more.
+ - First Corporate Job     -> As a Software Engineer, and in 15 months the experience I got was for C/C++, Java, Networking tools, packet analysis, informix, sybase, sybase IQ, Postgresql, mongodb, node.js, Angular.js, twitter bootstrap, openLDAP, openSSL , socket.io, for live dashbaord and much more.
  - First Freelancing       -> Codeenvy, the project was UI based live and highly interactive dashbaord and we worked mostly with angular.js and Twitter Bootstrap
- - First Python Project    -> It was also freelance project to collect and gather the information of various startups and recommend which startup is worth investing
+ - First Python Project    -> It was also freelance project to collect and gather the information of various startups and recommend which startup is worth investing. The backend was Django(python) and frontend used Twitter bootstrap.
 
 Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3, 
      
