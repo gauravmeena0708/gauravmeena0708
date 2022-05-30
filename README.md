@@ -1,15 +1,14 @@
 ### Hi there 👋
 
+<h2>Intro</h2>
 <p>I am Gaurav Meena, APFC, EPFO currently living in <b>Bengaluru, India</b>. </p>
 
 [Youtube](https://www.youtube.com/playlist?list=PLYc0L7KnQ0W2iRLYBktNK_94BBRZcTaDF)
 
- ✨ _special_ ✨ 
- 
  I’m currently working on Interactive Calculator for various stackholders of my organisation using angular.js and other tools . I am learning Data Scince and Visualisation using R and Tableau. I’m looking to collaborate on PHP, Node.js or Python Projects and also pursuasive user design. I am currently listening to Super Data Science podcast.
  
 
- ✨ _The technologies I have worked with_ ✨
+ <h2>✨ The technologies I have worked with✨</h2>
  - Front-End Technologies : HTML, CSS, Javascript (Angular.js, D3.js, Underscore), Twitter Bootstrap. I am trying to go into depth of D3.js 
  - Back-End Technologies  : PHP, Python, C, MySQL(and other SQL based DBs), MongoDB, Node.js
  - Design and Video       : Photoshop, Indesign, Vegas, Adobe Premiere Pro, Filmora
@@ -20,7 +19,7 @@
 
 I have also worked with C++, Java and Asp.net but now I can't recognise them a bit. I am also a Arctic Code Vault Contributor as I have worked with Codeenvy before 2015 and contributed to first design of [Codeenvy Repository](https://github.com/codenvy/codenvy)
 
-✨ _Things I was part of as a contributor_ ✨
+<h2>✨Things I was part of as a contributor ✨</h2>
  - First Year Project      -> A car racing game was build using EZwindows of C++ (We even thought that the game can be expanded to NFS level)
  - First Internship        -> Modified and Maintained a hardware product based website. First Money.
  - First Full Website(free)-> Zephyr( the Aerospace department festival) and Aawaaz (The Hindi Newspaper Group for which website requirement is always two lang)
@@ -34,7 +33,7 @@ I have also worked with C++, Java and Asp.net but now I can't recognise them a b
 Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3, 
      
 
-<h3>Things I code with</h3>
+<h2>Things I code with</h2>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
@@ -61,6 +60,8 @@ Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3,
   
 </p>
 
+<h2>Stats</h2>
+
 [![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravmeena0708)](https://github.com/gauravmeena0708/)
 [![epfindia's GitHub stats](https://github-readme-stats.vercel.app/api?username=epfindia)](https://github.com/epfindia/)
 
@@ -69,7 +70,7 @@ Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmeena0708&layout=compact)](https://github.com/gauravmeena0708)
 
-<h3>Where to find me</h3>
+<h2>Where to find me</h2>
 <p>	
 	<a href="https://github.com/gauravmeena0708" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 	<a href="https://twitter.com/gauravmeena0708" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
