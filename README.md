@@ -6,7 +6,7 @@
 [Youtube](https://www.youtube.com/playlist?list=PLYc0L7KnQ0W2iRLYBktNK_94BBRZcTaDF)
 
  I’m currently working on Interactive Calculator for various stackholders of my organisation using angular.js and other tools . I am learning Data Scince and Visualisation using R and Tableau. I’m looking to collaborate on PHP, Node.js or Python Projects and also pursuasive user design. I am currently listening to Super Data Science podcast.
- 
+ - ⚡️ Fun fact: I'm a Rocket scientist.
 
  <h2>✨ The technologies I have worked with✨</h2>
  
@@ -51,6 +51,10 @@ Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3,
   <img alt="Postgresql" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis" />
   
+  <img alt="PHP" src="https://img.shields.io/badge/-php-394989?style=plastic&logo=php" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS" />
+  <img alt="Shell" src="https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell" />
+  
 
   <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" />
@@ -58,9 +62,8 @@ Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3,
   
   <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
   <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-  
-  
 </p>
+
 
 <h2>Stats</h2>
 
