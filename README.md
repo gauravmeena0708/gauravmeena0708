@@ -9,6 +9,7 @@
  
 
  <h2>✨ The technologies I have worked with✨</h2>
+ 
  - Front-End Technologies : HTML, CSS, Javascript (Angular.js, D3.js, Underscore), Twitter Bootstrap. I am trying to go into depth of D3.js 
  - Back-End Technologies  : PHP, Python, C, MySQL(and other SQL based DBs), MongoDB, Node.js
  - Design and Video       : Photoshop, Indesign, Vegas, Adobe Premiere Pro, Filmora
@@ -20,6 +21,7 @@
 I have also worked with C++, Java and Asp.net but now I can't recognise them a bit. I am also a Arctic Code Vault Contributor as I have worked with Codeenvy before 2015 and contributed to first design of [Codeenvy Repository](https://github.com/codenvy/codenvy)
 
 <h2>✨Things I was part of as a contributor ✨</h2>
+
  - First Year Project      -> A car racing game was build using EZwindows of C++ (We even thought that the game can be expanded to NFS level)
  - First Internship        -> Modified and Maintained a hardware product based website. First Money.
  - First Full Website(free)-> Zephyr( the Aerospace department festival) and Aawaaz (The Hindi Newspaper Group for which website requirement is always two lang)
