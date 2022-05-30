@@ -59,7 +59,7 @@ Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3,
 </p>
 
 <h2>Latest Tweets</h2>
-<p><a href="https://twitter.com/gauravmeena0708"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=mokkapps&amp;layout=wide" alt="github-readme-twitter"></a></p>
+<p><a href="https://twitter.com/gauravmeena0708"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=gauravmeena0708&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
 <!--
 **gauravmeena0708/gauravmeena0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
