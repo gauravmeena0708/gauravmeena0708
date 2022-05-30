@@ -50,6 +50,17 @@ Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmeena0708&layout=compact)](https://github.com/gauravmeena0708)
 
+<h3>Where to find me</h3>
+<p>	
+	<a href="https://github.com/gauravmeena0708" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+	<a href="https://twitter.com/gauravmeena0708" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+	<a href="https://www.linkedin.com/in/gauravmeena0708" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+	<a href="https://www.instagram.com/gauravmeena0708/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+</p>
+
+<h2>Latest Tweets</h2>
+<p><a href="https://twitter.com/gauravmeena0708"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=mokkapps&amp;layout=wide" alt="github-readme-twitter"></a></p>
+
 <!--
 **gauravmeena0708/gauravmeena0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
