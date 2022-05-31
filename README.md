@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h2>Intro</h2>
+<h2>Hi there 👋</h2>
 <p>I am Gaurav Meena, APFC, EPFO currently living in <b>Bengaluru, India</b>. By Hobby, I am a Learner and Full stack developer. </p>
 
 [Youtube](https://www.youtube.com/playlist?list=PLYc0L7KnQ0W2iRLYBktNK_94BBRZcTaDF)
