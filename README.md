@@ -88,6 +88,16 @@ Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3,
 <h2>Latest Tweets</h2>
 <p><a href="https://twitter.com/gauravmeena0708"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=gauravmeena0708&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
+<h2>Apart from technology, What I do?</h2>
+<p>
+	<ul>
+		<li>I love adventure and enjoy trecking, rafting and any other activity that gives Adrenaline small boost</li>
+		<li>I have fought official karate match with ITBP personnel (I lost in a minute)</li>
+		<li>I have performed dance on stage (I have stage fear)</li>
+		<li>I can cook/make good tea with youtube instructions</li>
+	</ul>
+</p>
+
 <!--
 **gauravmeena0708/gauravmeena0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
