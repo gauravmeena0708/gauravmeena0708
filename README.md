@@ -1,7 +1,7 @@
 <h2>Hi there 👋</h2>
 <p>I am Gaurav Meena, APFC, EPFO currently living in <b>Bengaluru, India</b>. By Hobby, I am a Learner and Full stack developer. </p>
 
-[Youtube](https://www.youtube.com/playlist?list=PLYc0L7KnQ0W2iRLYBktNK_94BBRZcTaDF)
+
 
  I’m currently working on Interactive Calculator for various stackholders of my organisation using angular.js and other tools . I am learning Data Scince and Visualisation using R and Tableau. I’m looking to collaborate on PHP, Node.js or Python Projects and also pursuasive user design. I am currently listening to Super Data Science podcast.
  - ⚡️ Fun fact: I'm a Rocket scientist.
@@ -87,6 +87,9 @@ Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3,
 	<a href="https://www.linkedin.com/in/gauravmeena0708" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 	<a href="https://www.instagram.com/gauravmeena0708/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 	<a href="https://stackoverflow.com/users/1070548/gaurav"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
+	<a href="https://www.youtube.com/playlist?list=PLYc0L7KnQ0W2iRLYBktNK_94BBRZcTaDF"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+	<a href="https://www.facebook.com/gauravmeena0708"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+	
 </p>
 
 <h2>Latest Tweets</h2>
