@@ -91,7 +91,7 @@ Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3,
 <h2>Apart from technology, What I do?</h2>
 <p>
 	<ul>
-		<li>I love adventure and enjoy trecking, rafting and any other activity that gives Adrenaline small boost</li>
+		<li>I love adventure and enjoy trekking, rafting and any other activity that gives Adrenaline small boost</li>
 		<li>I have fought official karate match with ITBP personnel (I lost in a minute)</li>
 		<li>I have performed dance on stage (I have stage fear)</li>
 		<li>I can cook/make good tea with youtube instructions</li>
