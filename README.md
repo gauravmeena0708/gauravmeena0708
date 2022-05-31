@@ -93,9 +93,10 @@ Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3,
 	<ul>
 		<li>I love adventure and enjoy trekking, rafting and any other activity that gives Adrenaline small boost</li>
 		<li>I have fought official karate match with ITBP personnel (I lost in a minute)</li>
-		<li>I have performed dance on stage (I have stage fear)</li>
+		<li>I have performed dance on stage (I have stage fear) <a href="https://www.youtube.com/watch?v=qq4k3hYvKvU">Link 1</a> <a href="https://www.youtube.com/watch?v=zugxDWaehPo">Link2</a> <a href="https://www.youtube.com/watch?v=VqPTiistucI">Link 3</a></li>
 		<li>I can cook/make good tea with youtube instructions</li>
 	</ul>
+	
 </p>
 
 <!--
