@@ -75,7 +75,6 @@ Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3,
 
 [![Gaurav's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1070548)](https://stackoverflow.com/users/1070548/gaurav)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmeena0708&layout=compact)](https://github.com/gauravmeena0708)
-a href="https://twitter.com/gauravmeena0708"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=gauravmeena0708&amp;layout=wide" alt="github-readme-twitter"></a>
 </div>
 
 <img alt="Gaurav Visits" src="https://badges.pufler.dev/visits/gauravmeena0708/gauravmeena0708?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/>
@@ -106,18 +105,3 @@ a href="https://twitter.com/gauravmeena0708"><img src="https://github-readme-twi
 	</ul>
 	
 </p>
-
-<!--
-**gauravmeena0708/gauravmeena0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
