@@ -72,13 +72,15 @@ Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3,
 [![epfindia's GitHub stats](https://github-readme-stats.vercel.app/api?username=epfindia)](https://github.com/epfindia/)
 </div>
 <div class="row">
-	
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmeena0708&layout=compact)](https://github.com/gauravmeena0708)
 [![Gaurav's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1070548)](https://stackoverflow.com/users/1070548/gaurav)
 </div>
+
 <img alt="Gaurav Visits" src="https://badges.pufler.dev/visits/gauravmeena0708/gauravmeena0708?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/>
 <img alt="Gaurav Last commit" src="https://img.shields.io/github/last-commit/gauravmeena0708/gauravmeena0708?label=profile%20updated&style=flat-square">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmeena0708&layout=compact)](https://github.com/gauravmeena0708)
+
 
 <h2>Where to find me</h2>
 <p>	
