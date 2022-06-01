@@ -71,7 +71,7 @@ Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3,
 </div>
 <div class="row">
 
-[![Gaurav's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1070548)](https://stackoverflow.com/users/1070548/gaurav)
+[![Gaurav's StackOverflow](https://stackoverflow-card.vercel.app/?userID=1070548)](https://stackoverflow.com/users/1070548/gaurav)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmeena0708)](https://github.com/gauravmeena0708)
 [![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gauravmeena0708&amp;layout=wide)](https://twitter.com/gauravmeena0708)
 </div>
