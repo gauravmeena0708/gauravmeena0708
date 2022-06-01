@@ -72,7 +72,7 @@ Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3,
 <div class="row">
 
 [![Gaurav's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1070548)](https://stackoverflow.com/users/1070548/gaurav)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmeena0708&layout=compact)](https://github.com/gauravmeena0708)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmeena0708)](https://github.com/gauravmeena0708)
 </div>
 
 <img alt="Gaurav Visits" src="https://badges.pufler.dev/visits/gauravmeena0708/gauravmeena0708?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/>
