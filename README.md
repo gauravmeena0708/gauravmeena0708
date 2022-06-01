@@ -16,7 +16,7 @@
  - Data Science           : Python Pandas, (Numpy, Scipy, NLTK Basics), R, Excel, SQL
  - Data Visualization     : Tableau, R, Excel(including Google Sheet), Python (matplotlib, plotly, bokeh)
 
-I have also worked with C++, Java and Asp.net but now I can't recognise them a bit. I am also a Arctic Code Vault Contributor as I have worked with Codeenvy before 2015 and contributed to first design of [Codeenvy Repository](https://github.com/codenvy/codenvy)
+I have also worked with C++, Java and Asp.net but now I can't recognise them a bit. I am also a Arctic Code Vault Contributor as I have worked with Codeenvy before 2015 and contributed to first design of [Codeenvy Repository](https://github.com/codenvy/codenvy) 
 
 <h2>✨Things I was part of as a contributor ✨</h2>
 
