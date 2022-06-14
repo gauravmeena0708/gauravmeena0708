@@ -99,7 +99,7 @@ Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3,
 [![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gauravmeena0708&amp;layout=wide)](https://twitter.com/gauravmeena0708)
 
 
-<h2>Apart from technology, What I do?</h2>
+<h2>Apart from technology, What do I do?</h2>
 <p>
 	<ul>
 		<li>I love adventure and enjoy trekking, rafting and any other activity that gives bit of Adrenaline boost</li>
