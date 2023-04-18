@@ -67,7 +67,6 @@ Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3,
 <div class="row">
 	
 [![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravmeena0708)](https://github.com/gauravmeena0708/)
-[![epfindia's GitHub stats](https://github-readme-stats.vercel.app/api?username=epfindia)](https://github.com/epfindia/)
 </div>
 <div class="row">
 
