@@ -18,7 +18,7 @@
 
 I have also worked with C++, Java and Asp.net but now I can't recognise them a bit. I am also a Arctic Code Vault Contributor as I have worked with Codeenvy before 2015 and contributed to first design of [Codeenvy Repository](https://github.com/codenvy/codenvy) 
 
-<h2>✨Things I was part of as a contributor ✨</h2>
+<h2>✨Firsts✨</h2>
 
  - First Year Project      -> A car racing game was build using EZwindows of C++ (We even thought that the game can be expanded to NFS level)
  - First Internship        -> Modified and Maintained a hardware product based website. First Money.
