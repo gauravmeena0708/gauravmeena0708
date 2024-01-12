@@ -3,7 +3,7 @@
 
 
 
- I’m currently working on Interactive Calculator for various stackholders of my organisation using angular.js and other tools . I am learning Data Scince and Visualisation using R and Tableau. I’m looking to collaborate on PHP, Node.js or Python Projects and also pursuasive user design. I am currently listening to Super Data Science podcast.
+ I’m currently working on Interactive Calculator for various stackholders of my organisation using angular.js and other tools . I am learning Data Scince and Visualisation using Python, R and Tableau. I’m looking to collaborate on PHP, Node.js or Python Projects and also pursuasive user design. I am currently listening to Super Data Science podcast.
  - ⚡️ Fun fact: I'm a Rocket scientist.
 
  <h2>✨ The technologies I have worked with✨</h2>
