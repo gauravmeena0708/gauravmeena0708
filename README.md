@@ -18,17 +18,36 @@
 
 I have also worked with C++, Java and Asp.net but now I can't recognise them a bit. I am also a Arctic Code Vault Contributor as I have worked with Codeenvy before 2015 and contributed to first design of [Codeenvy Repository](https://github.com/codenvy/codenvy) 
 
-<h2>✨Firsts✨</h2>
+### ✨Firsts✨
 
- - First Year Project      -> A car racing game was build using EZwindows of C++ (We even thought that the game can be expanded to NFS level)
- - First Internship        -> Modified and Maintained a hardware product based website. First Money.
- - First Full Website(free)-> Zephyr( the Aerospace department festival) and Aawaaz (The Hindi Newspaper Group for which website requirement is always two lang)
- - First Full Website(paid)-> Broadvision.asia (The website was for internship and were according tp full corporate environment)
- - First Data Analysis     -> It was a inter IIT competition and the task was to give a best combination of features for a product (out of 2^12 scenarios) that would capture the largest market. and guess which team won the first prize.
- - First Optimization      -> Dual degree project on particle swarm optimization. Which uses evolution algorithm to find optimum parameters from thousands of scenarios to give best output
- - First Corporate Job     -> As a Software Engineer, and in 15 months the experience I got was for C/C++, Java, Networking tools, packet analysis, informix, sybase, sybase IQ, Postgresql, mongodb, node.js, Angular.js, twitter bootstrap, openLDAP, openSSL , socket.io, for live dashbaord and much more.
- - First Freelancing       -> Codeenvy, the project was UI based live and highly interactive dashbaord and we worked mostly with angular.js and Twitter Bootstrap
- - First Python Project    -> It was also freelance project to collect and gather the information of various startups and recommend which startup is worth investing. The backend was Django(python) and frontend used Twitter bootstrap.
+#### First Year Project
+Developed a car racing game using EZwindows in C++. We even envisioned expanding the game to a level similar to Need for Speed.
+
+#### First Internship
+Modified and maintained a hardware product-based website. Earned my first paycheck.
+
+#### First Full Website (Free)
+- **Zephyr:** The Aerospace Department festival website.
+- **Aawaaz:** The Hindi Newspaper Group's website, designed to support both Hindi and English languages.
+
+#### First Full Website (Paid)
+- **Broadvision.asia:** Created during an internship, this project adhered to full corporate standards.
+
+#### First Data Analysis
+Participated in an inter-IIT competition, where we analyzed and selected the best combination of features for a product (out of 2^12 scenarios) to capture the largest market share. Our team won first prize.
+
+#### First Optimization
+For my dual degree project, I used particle swarm optimization, an evolutionary algorithm, to find optimal parameters from thousands of scenarios, yielding the best output.
+
+#### First Corporate Job
+As a Software Engineer, I gained 15 months of experience working with a wide array of technologies: C/C++, Java, networking tools, packet analysis, Informix, Sybase, Sybase IQ, PostgreSQL, MongoDB, Node.js, AngularJS, Twitter Bootstrap, OpenLDAP, OpenSSL, Socket.IO, and more, primarily for live dashboard projects.
+
+#### First Freelancing
+Worked on Codeenvy, developing a UI-based, highly interactive live dashboard using AngularJS and Twitter Bootstrap.
+
+#### First Python Project
+A freelance project focused on gathering and analyzing information on various startups to recommend investment opportunities. The backend was built with Django (Python) and the frontend utilized Twitter Bootstrap.
+
 
 Google Sheet, Automation, Captcha Reading, OpenCV, R, Tableau, D3, 
      
