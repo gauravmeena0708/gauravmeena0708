@@ -1,5 +1,5 @@
 <h2>Hi there 👋</h2>
-<p>I am Gaurav Meena, Administrator currently living in <b>Bengaluru, India</b>. By Hobby, I am a Learner and Full stack developer. To have a look at my portfolio please visit <a href="https://www.behance.net/gauravmeena0708"><img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> </p>
+<p>I am Gaurav Meena, Administrator currently living in <b>New Delhi, India</b>. By Hobby, I am a Learner and Full stack developer. To have a look at my portfolio please visit <a href="https://www.behance.net/gauravmeena0708"><img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> </p>
 
 
 
