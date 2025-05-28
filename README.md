@@ -18,7 +18,7 @@ While I'm currently diving deep into AI, here's a snapshot of technologies I've 
 -   **Network Technologies:** Wireshark, TCPdump, libpcap
 -   **Automation & Testing:** Selenium, iMacros, BeautifulSoup, urllib3
 
-*I also have past experience with C++, Java, and ASP.NET. I'm proud to be an Arctic Code Vault Contributor through my earlier work with CodeEnvy (now Eclipse Che), where I contributed to its initial repository design.*
+*I also have past experience with C++, Java, and ASP.NET. I'm proud to be an Arctic Code Vault Contributor through my earlier work with CodeEnvy, where I contributed to its initial repository design.*
 
 <h2>🚀 Milestones & Journey 🚀</h2>
 
