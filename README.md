@@ -93,7 +93,7 @@ A few highlights from my learning and professional path:
 
 <h2>🐦 Latest Tweets 🐦</h2>
 <a href="https://twitter.com/gauravmeena0708">
-  <img alt="Twitter Activity" src="https://github-readme-twitter.gazf.vercel.app/api?id=gauravmeena0708&layout=wide" />
+  <img alt="Twitter Activity" src="https://github-readme-twitter.gazf.vercel.app/api?id=0708gaurav&layout=wide" />
 </a>
 
 <h2>🎭 Beyond Technology 🎭</h2>
