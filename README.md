@@ -84,9 +84,9 @@ While I'm currently diving deep into AI, here's a snapshot of technologies I've 
   <a href="https://github.com/gauravmeena0708"><img alt="Gaurav's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gauravmeena0708&show_icons=true&theme=tokyonight" /></a>
 </div>
 <div class="row">
-  <a href="https://github.com/gauravmeena0708"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmeena0708&layout=compact&theme=tokyonight" /></a>
-  <a href="https://github.com/gauravmeena0708"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmeena0708&theme=tokyonight" alt="gauravmeena0708" /></a>
-  <a href="https://stackoverflow.com/users/1070548/gaurav"><img alt="Gaurav's StackOverflow" src="https://stackoverflow-card.vercel.app/?userID=1070548&theme=tokyonight" /></a>
+  <a href="https://github.com/gauravmeena0708"><img alt="Top Langs" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmeena0708&layout=compact&theme=tokyonight" /></a>
+  <a href="https://github.com/gauravmeena0708"><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmeena0708&theme=tokyonight" alt="gauravmeena0708" /></a>
+  <a href="https://stackoverflow.com/users/1070548/gaurav"><img height=200 alt="Gaurav's StackOverflow" src="https://stackoverflow-card.vercel.app/?userID=1070548&theme=tokyonight" /></a>
 </div>
 
 <p>
