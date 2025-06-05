@@ -78,6 +78,7 @@ A few highlights from my learning and professional path:
 <p>
   <img alt="Gaurav Visits" src="https://badges.pufler.dev/visits/gauravmeena0708/gauravmeena0708?logo=GitHub&label=profile%20visits&color=success&logoColor=white&style=flat-square"/>
   <img alt="Gaurav Last commit" src="https://img.shields.io/github/last-commit/gauravmeena0708/gauravmeena0708?label=profile%20updated&style=flat-square">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmeena0708&" alt="gauravmeena0708" />
 </p>
 
 <h2>🔗 Where to find me 🔗</h2>
