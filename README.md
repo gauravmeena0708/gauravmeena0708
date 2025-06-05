@@ -29,7 +29,8 @@ While I'm currently diving deep into AI, here's a snapshot of technologies I've 
 -   **Network Technologies:** Wireshark, TCPdump, libpcap.
 -   **Automation & Testing:** Selenium, iMacros, BeautifulSoup, urllib3.
 
-*I also have past experience with C++, Java, and ASP.NET. I'm proud to be an Arctic Code Vault Contributor through my earlier work with CodeEnvy, where I contributed to its initial repository design.*
+*I also have past experience with C/C++, Java, and ASP.NET (~ one project). 
+I'm proud to be an Arctic Code Vault Contributor through my earlier work with CodeEnvy, where I contributed to its initial repository design.*
 
 <h2>🚀 Milestones & Journey 🚀</h2>
 
@@ -81,12 +82,10 @@ While I'm currently diving deep into AI, here's a snapshot of technologies I've 
 
 <h2>📊 Stats & Activity 📊</h2>
 <div class="row">
-  <a href="https://github.com/gauravmeena0708"><img alt="Gaurav's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gauravmeena0708&show_icons=true&theme=tokyonight" /></a>
-</div>
-<div class="row">
-  <a href="https://github.com/gauravmeena0708"><img alt="Top Langs" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmeena0708&layout=compact&theme=tokyonight" /></a>
-  <a href="https://github.com/gauravmeena0708"><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmeena0708&theme=tokyonight" alt="gauravmeena0708" /></a>
-  <a href="https://stackoverflow.com/users/1070548/gaurav"><img height=200 alt="Gaurav's StackOverflow" src="https://stackoverflow-card.vercel.app/?userID=1070548&theme=tokyonight" /></a>
+  <a href="https://github.com/gauravmeena0708"><img width=48% alt="Gaurav's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gauravmeena0708&show_icons=true&theme=tokyonight" /></a>
+  <a href="https://github.com/gauravmeena0708"><img width=48% alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmeena0708&layout=compact&theme=tokyonight" /></a>
+  <a href="https://github.com/gauravmeena0708"><img width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmeena0708&theme=tokyonight" alt="gauravmeena0708" /></a>
+  <a href="https://stackoverflow.com/users/1070548/gaurav"><img width=48% alt="Gaurav's StackOverflow" src="https://stackoverflow-card.vercel.app/?userID=1070548&theme=tokyonight" /></a>
 </div>
 
 <p>
