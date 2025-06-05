@@ -41,45 +41,26 @@ A few highlights from my learning and professional path:
 
 <h2>💻 Things I Code With 💻</h2>
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-  <img alt="Twitter Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="D3.js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <br>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
-  <img alt="Postgresql" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis" />
-  <br>
-  <img alt="PHP" src="https://img.shields.io/badge/-php-394989?style=plastic&logo=php" />
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS" />
-  <img alt="Shell" src="https://img.shields.io/badge/-Shell-black?style=plastic&logo=Shell" />
-  <br>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
-  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" />
-  <br>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /><img alt="Twitter Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" /><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /><br>
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" /><img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /><img alt="D3.js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" /><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /><br>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" /><img alt="Postgresql" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" /><img alt="Redis" src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis" /><br>
+  <img alt="PHP" src="https://img.shields.io/badge/-php-394989?style=flat-square&logo=php" /><img alt="Express.js" src="https://img.shields.io/badge/-Express.JS-c7b198?style=flat-square&logo=Express.JS" /><img alt="Shell" src="https://img.shields.io/badge/-Shell-black?style=flat-square&logo=Shell" /><img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" /><br>
+  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" /><img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
 </p>
 
 <h2>📊 Stats & Activity 📊</h2>
 <div class="row">
-  <a href="https://github.com/gauravmeena0708"><img alt="Gaurav's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gauravmeena0708&show_icons=true&theme=radical" /></a>
+  <a href="https://github.com/gauravmeena0708"><img alt="Gaurav's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gauravmeena0708&show_icons=true&theme=tokyonight" /></a>
 </div>
 <div class="row">
-  <a href="https://github.com/gauravmeena0708"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmeena0708&layout=compact&theme=radical" /></a>
-  <a href="https://stackoverflow.com/users/1070548/gaurav"><img alt="Gaurav's StackOverflow" src="https://stackoverflow-card.vercel.app/?userID=1070548&theme=radical" /></a>
-    <a href="https://github.com/gauravmeena0708"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmeena0708&theme=radical" alt="gauravmeena0708" /></a>
+  <a href="https://github.com/gauravmeena0708"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmeena0708&layout=compact&theme=tokyonight" /></a>
+  <a href="https://stackoverflow.com/users/1070548/gaurav"><img alt="Gaurav's StackOverflow" src="https://stackoverflow-card.vercel.app/?userID=1070548&theme=tokyonight" /></a>
+    <a href="https://github.com/gauravmeena0708"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmeena0708&theme=tokyonight" alt="gauravmeena0708" /></a>
 </div>
 
 <p>
   <img alt="Gaurav Visits" src="https://badges.pufler.dev/visits/gauravmeena0708/gauravmeena0708?logo=GitHub&label=profile%20visits&color=success&logoColor=white&style=flat-square"/>
   <img alt="Gaurav Last commit" src="https://img.shields.io/github/last-commit/gauravmeena0708/gauravmeena0708?label=profile%20updated&style=flat-square">
-  
 </p>
 
 <h2>🔗 Where to find me 🔗</h2>
@@ -114,9 +95,9 @@ A few highlights from my learning and professional path:
 </ul>
 
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravmeena0708&theme=tokyonight" alt="Profile details" width="100%" height="auto"></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravmeena0708&theme=tokyonight" alt="Profile details" width="100%" height="auto">
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gauravmeena0708&theme=tokyonight" alt="Most used languages" width="49%" height="auto">
