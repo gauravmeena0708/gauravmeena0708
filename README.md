@@ -104,10 +104,6 @@ I'm proud to be an Arctic Code Vault Contributor through my earlier work with Co
   <a href="https://www.behance.net/gauravmeena0708"><img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" /></a>
 </p>
 
-<h2>🐦 Latest Tweets 🐦</h2>
-<a href="https://twitter.com/0708gaurav">
-  <img alt="Twitter Activity" src="https://github-readme-twitter.gazf.vercel.app/api?id=0708gaurav&layout=wide" />
-</a>
 
 <h2>🎭 Beyond Technology 🎭</h2>
 <ul>
