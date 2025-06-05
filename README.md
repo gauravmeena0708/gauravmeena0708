@@ -110,3 +110,18 @@ A few highlights from my learning and professional path:
   <li>I make a good cup of tea and can whip up meals with YouTube's guidance.</li>
   <li>Sometimes, I write poems in Hindi. Here's one: <a href="http://www.youtube.com/watch?v=WKoFZsBc3sw">Intern ka Haal (Hindi Poem)</a>.</li>
 </ul>
+
+
+## 📊 GitHub Stats
+
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravmeena0708&theme=tokyonight" alt="Profile details" width="100%" height="auto"></a>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gauravmeena0708&theme=tokyonight" alt="Most used languages" width="49%" height="auto">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gauravmeena0708&theme=tokyonight" alt="Repos per language" width="49%" height="auto">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravmeena0708&theme=tokyonight" alt="GitHub stats" width="49%" height="auto">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gauravmeena0708&theme=tokyonight" alt="Commit times" width="49%" height="auto">
+</div>
