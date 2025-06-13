@@ -14,7 +14,6 @@
 * [💻 Things I Code With 💻](#things-i-code-with)
 * [📊 Stats & Activity 📊](#stats-activity)
 * [🔗 Where to find me 🔗](#where-to-find-me)
-* [🐦 Latest Tweets 🐦](#latest-tweets)
 * [🎭 Beyond Technology 🎭](#beyond-technology)
 
 <h2>✨ Core Competencies & Technologies ✨</h2>
