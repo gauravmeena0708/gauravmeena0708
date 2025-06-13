@@ -84,8 +84,8 @@ I'm proud to be an Arctic Code Vault Contributor through my earlier work with Co
 <div class="row">
   <a href="https://github.com/gauravmeena0708"><img height=194 alt="Gaurav's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gauravmeena0708&show_icons=true&theme=tokyonight" /></a>
   <a href="https://github.com/gauravmeena0708"><img height=194 alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmeena0708&layout=compact&theme=tokyonight" /></a>
-  <a href="https://github.com/gauravmeena0708"><img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmeena0708&theme=tokyonight" alt="gauravmeena0708" /></a>
-  <a href="https://stackoverflow.com/users/1070548/gaurav"><img height=175 alt="Gaurav's StackOverflow" src="https://stackoverflow-card.vercel.app/?userID=1070548&theme=tokyonight" /></a>
+  <a href="https://github.com/gauravmeena0708"><img height=175 src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmeena0708&theme=tokyonight" alt="gauravmeena0708" /></a>
+  <a href="https://stackoverflow.com/users/1070548/gaurav"><img height=170 alt="Gaurav's StackOverflow" src="https://stackoverflow-card.vercel.app/?userID=1070548&theme=tokyonight" /></a>
 </div>
 
 <p>
