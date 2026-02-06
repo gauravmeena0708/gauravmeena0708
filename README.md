@@ -9,6 +9,11 @@ With a foundational background in **Aerospace Engineering (B.Tech & M.Tech, IIT 
 ### 🔭 Current Focus
 My research focuses on **Generative AI**, specifically exploring **Diffusion and VAE models** for synthetic tabular data generation. My goal is to generate high-fidelity data while rigorously ensuring privacy and distribution integrity.
 
+### 🏛️ AI in Governance (Current Focus)
+I am exploring the intersection of **Law, Bureaucracy, and Large Language Models**.
+* **Project:** Building a specialized RAG (Retrieval-Augmented Generation) pipeline to digitize and query legacy EPFO legal case files (7A & 14B).
+* **Goal:** transforming unstructured bureaucratic PDFs into a queryable knowledge base to assist adjudicating officers.
+* **Stack:** OCR, Vector Databases, LLMs, Privacy-Preserving AI.
 ---
 
 ### 📋 Table of Contents
