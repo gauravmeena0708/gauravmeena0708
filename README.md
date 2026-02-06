@@ -82,21 +82,21 @@ I'm proud to be an Arctic Code Vault Contributor through my earlier work with Co
 <h2 align="center">📊 Stats & Activity 📊</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gauravmeena0708&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gauravmeena0708&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
 <div align="center">
   <a href="https://github.com/gauravmeena0708">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gauravmeena0708&show_icons=true&theme=tokyonight" alt="Gaurav's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=gauravmeena0708&show_icons=true&theme=tokyonight" alt="Gaurav's GitHub Stats" />
   </a>
   <a href="https://github.com/gauravmeena0708">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gauravmeena0708&layout=compact&theme=tokyonight" alt="Top Langs" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmeena0708&layout=compact&theme=tokyonight" alt="Top Langs" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/gauravmeena0708">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmeena0708&theme=tokyonight" alt="Streak" />
+    <img height="165" src="https://streak-stats.demolab.com?user=gauravmeena0708&theme=tokyonight" alt="Streak" />
   </a>
   <a href="https://stackoverflow.com/users/1070548/gaurav">
     <img height="165" src="https://stackoverflow-card.vercel.app/?userID=1070548&theme=tokyonight" alt="StackOverflow" />
