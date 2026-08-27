@@ -1,8 +1,6 @@
 # Hi there 👋
 
-I am **Gaurav Meena**, a **Regional Provident Fund Commissioner - II** with EPFO, India. My studies include  **M.Tech student in Artificial Intelligence & Data Science at IIT Delhi** (2024-2026) and Dual Degree in Aerospace Engineering from IITB (2007-2012).
-
-With a foundational background in **Aerospace Engineering (B.Tech & M.Tech, IIT Bombay, 2007-2012)**, I am passionate about bridging the gap between legacy systems and modern AI.
+I am **Gaurav Meena**, a **Regional Provident Fund Commissioner - II** with EPFO, India. My studies include  **M.Tech student in Artificial Intelligence & Data Science at IIT Delhi** (2024-2026) and Dual Degree in Aerospace Engineering from IITB (2007-2012). I am passionate about bridging the gap between legacy systems and modern AI.
 
 > ⚡️ **Fun fact:** I'm a Rocket Scientist by my initial academic training!
 
